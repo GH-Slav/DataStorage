@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataStorage</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="clear">Clear</string>
+    <string name="your_text">Your text</string>
+</resources>
